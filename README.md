@@ -1,4 +1,4 @@
-# THE SHIVA LAYER: Audio-Reactive Manifold
+ Audio-Reactive Manifold
 
 > "The Geometry of Silence"
 
