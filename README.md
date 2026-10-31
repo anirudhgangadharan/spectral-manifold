@@ -1,4 +1,6 @@
- Audio-Reactive Manifold
+ Audio-Reactive Manifold 
+ 
+Try it out here- https://anirudhgangadharan.github.io/spectral-manifold/
 
 > "The Geometry of Silence"
 
